@@ -1,0 +1,5 @@
+Apache Sqoop(TM) is a tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.
+
+Sqoop successfully graduated from the Incubator in March of 2012 and is now a Top-Level Apache project: More information
+
+Latest stable release is 1.4.7 (download, documentation). Latest cut of Sqoop2 is 1.99.7 (download, documentation). Note that 1.99.7 is not compatible with 1.4.7 and not feature complete, it is not intended for production deployment.
